@@ -6,7 +6,7 @@
 
 ### Tecnologias
 
-<h6>Abaixo se encontram as tecnologias que tive contato, as quais tenho conhecimento</h6>
+<h6>Abaixo se encontram as tecnologias que tive contato, as quais tenho conhecimento:</h6>
 
 <div>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
