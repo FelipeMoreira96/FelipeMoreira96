@@ -1,12 +1,12 @@
-### Olá, me chamo Felipe Moreira 😊
+<h2>Olá, me chamo Felipe Moreira 😊</h2>
 
-<h4>Comecei como programador Front-End, e depois migrei para Design, atuando como UI/UX Designer. Atualmente estou conciliando a programação Front-End com o Design.</h4>
+<h5>Comecei como programador Front-End, e depois migrei para Design, atuando como UI/UX Designer. Atualmente estou conciliando a programação Front-End com o Design.</h5>
 
 ##
 
-### Tecnologias
+<h3>Tecnologias</h3>
 
-<h4>Abaixo se encontram as tecnologias que tive contato, as quais tenho conhecimento:</h4>
+<h5>Abaixo se encontram as tecnologias que tive contato, as quais tenho conhecimento:</h5>
 
 <div>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,7 @@
 
 ##
 
-### Entre em contato
+<h3>Entre em contato</h3>
 
 <div>
   <a href = "mailto:felipemfranco96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
