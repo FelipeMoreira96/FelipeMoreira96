@@ -1,6 +1,6 @@
 ### Olá, me chamo Felipe Moreira 😊
 
-<h6>Comecei como programador Front-End, e depois migrei para Design, atuando como UI/UX Designer. Atualmente estou conciliando a programação Front-End com o Design.</h6>
+<h4>Comecei como programador Front-End, e depois migrei para Design, atuando como UI/UX Designer. Atualmente estou conciliando a programação Front-End com o Design.</h4>
 
 ##
 
