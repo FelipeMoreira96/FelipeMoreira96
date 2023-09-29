@@ -19,14 +19,9 @@
 
 <h5>Estudando no momento:</h5>
 <div>
-  <img align="center" alt="Felipe-AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg">
-</div>
-
-##
-
-<h5>Abaixo se encontram as tecnologias que pretendo aprender:</h5>
-<div>
-  <img align="center" alt="Felipe-Blender" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" />
+  <img align="center" alt="Felipe-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Felipe-Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Felipe-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
 ##
